@@ -2,7 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://abhaitiwari.github.io/defensive-c-autosar/sitemap.xml
-
-# Encourage frequent crawling
-Crawl-delay: 0
+Sitemap: https://abhai-tiwari.github.io/book/sitemap.xml
